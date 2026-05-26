@@ -1,0 +1,8 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/Keye3Tuido/K3T_private.git
+	branch = RedRefs
+[submodule "icons"]
+	path = icons
+	url = https://github.com/Keye3Tuido/K3T_private.git
+	branch = icons
